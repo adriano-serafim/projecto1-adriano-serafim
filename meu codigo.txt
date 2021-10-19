@@ -1,2 +1,4 @@
 Olá, eu sou o Adriano.
 Esse é um arquivo teste para o curso de git
+
+Olá, eu sou uma nova linha
